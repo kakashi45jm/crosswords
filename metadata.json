@@ -1,0 +1,6 @@
+{
+  "name": "Word Connect Crossword",
+  "description": "A mobile crossword word puzzle game with letter connect wheel, offline dictionary, hint system, level progression, and iOS 9.3.5 performance optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
